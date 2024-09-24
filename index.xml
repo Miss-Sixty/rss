@@ -1,11 +1,11 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>今日推荐 - 游民星空</title>
+    <title>rss 认证</title>
     <link>https://www.gamersky.com/news</link>
-    <follow_challenge>
-      <feedId>60572246799493120</feedId>
-      <userId>55252093176585216</userId>
-    </follow_challenge>
+ <follow_challenge>
+    <feedId>61409439326429184</feedId>
+    <userId>55252093176585216</userId>
+</follow_challenge>
     <item>
       <title>外网社区称IGN为"当代黄眉"：这下算是玩懂第三章了</title>
       <description>
