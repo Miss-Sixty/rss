@@ -1,0 +1,20 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>今日推荐 - 游民星空</title>
+    <link>https://www.gamersky.com/news</link>
+    <follow_challenge>
+      <feedId>60572246799493120</feedId>
+      <userId>55252093176585216</userId>
+    </follow_challenge>
+    <item>
+      <title>外网社区称IGN为"当代黄眉"：这下算是玩懂第三章了</title>
+      <description>
+        <p>今日我们曾报道，《黑神话》登顶年度游戏投票后，IGN依然将《最终幻想7：重生》称为“Top”，并将《黑神话》排到了第五。有网友将这一逆天操作分享到了Reddit，几个小时后，帖子中的图就被版主删了。
+          …</p>
+      </description>
+      <link>https://www.gamersky.com/news/202409/1821094.shtml</link>
+      <guid isPermaLink="false">https://www.gamersky.com/news/202409/1821094.shtml</guid>
+      <pubDate>Tue, 24 Sep 2024 12:04:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
